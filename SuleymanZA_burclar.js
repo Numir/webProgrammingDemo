@@ -40,7 +40,7 @@ if ((ay == 1 && gun >= 22) || (ay == 2 && gun <= 19)) {
 }
 
 /* 
-        Burçların tarihleri
+        Burçların tarihleri....
         Kova Burçların tarihleri :     22 Ocak – 19 Şubat
         Balık Burçlar tarihleri :        20 Şubat – 20 Mart
         Koç Burçlarının tarihleri :    21 Mart –  20 Nisan
