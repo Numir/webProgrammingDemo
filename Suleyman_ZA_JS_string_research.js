@@ -2,7 +2,7 @@ console.log('Süleyman ZA', Date(Date.now()).toString());
 
 let stDeger =
      'concat, endsWith, startsWith, includes, indexOf, lastIndexOf, padEnd, padStart, slice, split, subString, subStr, trim, trimEnd, trimStart, repeat, replace';
-let stDeger2 = 'Süleyman ders çalışıyor; Bazen.';
+let stDeger2 = 'Süleyman ders çalışıyor; Bazen. Misal Jetz';
 let stDeger3 = '26 01 2020';
 
 console.log('JS string  // concat : ' + stDeger.concat(' ++ BİRLEŞTİRİYOR ++ ', stDeger2 + ' ++ ', stDeger3));
