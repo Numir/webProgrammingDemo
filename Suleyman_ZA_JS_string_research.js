@@ -3,7 +3,7 @@ console.log('Süleyman ZA', Date(Date.now()).toString());
 let stDeger =
      'concat, endsWith, startsWith, includes, indexOf, lastIndexOf, padEnd, padStart, slice, split, subString, subStr, trim, trimEnd, trimStart, repeat, replace';
 let stDeger2 = 'Süleyman ders çalışıyor; Bazen. Misal Jetz';
-let stDeger3 = '26 12 2020';
+let stDeger3 = '26 12 2020'; // power güç demek midir?
 
 console.log('JS string  // concat : ' + stDeger.concat(' ++ BİRLEŞTİRİYOR ++ ', stDeger2 + ' ++ ', stDeger3));
 console.log('JS string  // endsWith : ' + stDeger3.endsWith('01', 5).toString());
