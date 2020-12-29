@@ -21,7 +21,7 @@ console.log('JS string  // .trim : ' + '|' + '   S체leyman   ' + '|>>|' + '   S�
 console.log('JS string  // .trimStart() : ' + '|' + '   S체leyman   ' + '|>>|' + '   S체leyman   '.trimStart() + '|');
 console.log('JS string  // .trimEnd() : ' + '|' + '   S체leyman   ' + '|>>|' + '   S체leyman   '.trimEnd() + '|');
 console.log('JS string  // repeat : ' + stDeger3.repeat(3));
-console.log('JS string  // replace : ' + stDeger2.replace('man', 'MEN'));
+console.log('JS string  // replace : ' + stDeger2.replace('man', 'MENs'));
 
 /*
 Merhaba arkadaslar;
