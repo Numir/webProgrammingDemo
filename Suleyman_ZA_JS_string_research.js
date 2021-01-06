@@ -5,7 +5,7 @@ let stDeger =
 let stDeger2 = 'Süleyman ders çalışıyor; Bazen. Misal Jetz';
 let stDeger3 = '26 12 2020'; // power güç demek midir..?
 
-console.log('JS string  // concat : ' + stDeger.concat(' ++ BİRLEŞTİRİYOR ++ ', stDeger2 + ' ++ ', stDeger3));
+console.log('JS string  // concat : ' + stDeger.concat(' ++ BİRLEŞTİRİYOR.. ++ ', stDeger2 + ' ++ ', stDeger3));
 console.log('JS string  // endsWith : ' + stDeger3.endsWith('01', 5).toString());
 console.log('JS string  // startsWith : ' + stDeger3.startsWith('2', 6).toString());
 console.log('JS string  // includes : ' + stDeger2.includes('Ders').toString()); //ders = true
