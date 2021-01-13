@@ -3,7 +3,7 @@ console.log('Süleyman ZA', Date(Date.now()).toString());
 let stDeger =
      'concat, endsWith, startsWith, includes, indexOf, lastIndexOf, padEnd, padStart, slice, split, subString, subStr, trim, trimEnd, trimStart, repeat, replace';
 let stDeger2 = 'Süleyman ders çalışıyor; Bazen. Misal Jetz';
-let stDeger3 = '26 12 2020'; // power güç demek midir..?
+let stDeger3 = '26 12 2020'; // power güç demek midir.. ?
 
 console.log('JS string  // concat : ' + stDeger.concat(' ++ BİRLEŞTİRİYOR.. ++ ', stDeger2 + ' ++ ', stDeger3));
 console.log('JS string  // endsWith : ' + stDeger3.endsWith('01', 5).toString());
@@ -17,11 +17,11 @@ console.log('JS string  // slice : ' + stDeger2.slice(5, 8).toUpperCase());
 console.log('JS string  // split : ' + stDeger3.split(' ', 2)); // baştan boşluklara bak 2 karektere kadar al
 console.log('JS string  // substring : ' + stDeger2.substring(14, 19));
 console.log('JS string  // substr : ' + stDeger2.substr(14, 19));
-console.log('JS string  // .trim : ' + '|' + '   Süleyman   ' + '|>>|' + '   Süleyman   '.trim() + '|');
+console.log('JS string  // .trim : ' + '|' + '   Süleyman     ' + '|>>|' + '   Süleyman   '.trim() + '|');
 console.log('JS string  // .trimStart() : ' + '|' + '   Süleyman   ' + '|>>|' + '   Süleyman   '.trimStart() + '|');
 console.log('JS string  // .trimEnd() : ' + '|' + '   Süleyman   ' + '|>>|' + '   Süleyman   '.trimEnd() + '|');
 console.log('JS string  // repeat : ' + stDeger3.repeat(3));
-console.log('JS string  // replace : ' + stDeger2.replace('man', 'MENsz'));
+console.log('JS string  // replace : ' + stDeger2.replace('man', 'MENz'));
 
 /*
 Merhaba arkadaslar;
