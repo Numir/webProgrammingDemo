@@ -22,6 +22,7 @@ console.log('JS string  // .trimStart() : ' + '|' + '   Süleyman   ' + '|>>|' +
 console.log('JS string  // .trimEnd() : ' + '|' + '   Süleyman   ' + '|>>|' + '   Süleyman   '.trimEnd() + '|');
 console.log('JS string  // repeat : ' + stDeger3.repeat(3));
 console.log('JS string  // replace : ' + stDeger2.replace('man', 'MENz'));
+console.log('JS string  // replace : ' + stDeger2.replace('man', 'FANz'));
 
 /*
 Merhaba arkadaslar;

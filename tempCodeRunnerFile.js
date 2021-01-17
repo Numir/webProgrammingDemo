@@ -1,0 +1,1 @@
+stDeger2
